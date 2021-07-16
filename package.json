@@ -39,7 +39,7 @@
         "body-parser": "1.19.x",
         "express": "^5.0.0-alpha.8",
         "language-tags": "1.0.5",
-        "libxslt": "0.9.0",
+        "libxslt": "0.10.0",
         "request": "^2.88.2",
         "string-direction": "0.1.x"
     },
